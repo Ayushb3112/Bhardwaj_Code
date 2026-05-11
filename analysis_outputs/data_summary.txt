@@ -1,0 +1,5 @@
+num_rows: 11670
+class_counts: {'User not at fault': 6000, 'User is at fault': 5670}
+mean_words: 459.2223650385604
+median_words: 445.0
+p95_words: 765.0

@@ -4,3 +4,32 @@ results/checkpoint-*/
 *.pt
 *.pth
 *.bin
+
+# Ignore Markdown notes/docs
+*.md
+
+# Ignore LaTeX source and common LaTeX project files
+*.tex
+*.bib
+*.cls
+*.sty
+*.bst
+*.bbx
+*.cbx
+
+# Ignore common LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.synctex.gz
+*.toc
+*.xdv
+
+# Ignore LaTeX template directory
+tdt4310_latextemplate/
